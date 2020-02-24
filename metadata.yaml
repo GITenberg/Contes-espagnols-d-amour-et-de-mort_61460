@@ -1,10 +1,13 @@
 _repo: Contes-espagnols-d-amour-et-de-mort_61460
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Ménétrier, F.
     gutenberg_agent_id: '51438'
     url: http://www.gutenberg.org/2009/agents/51438
+covers:
+- cover_type: archival
+  image_path: 61460-h/images/cover.jpg
 creator:
   author:
     agent_name: Blasco Ibáñez, Vicente
@@ -19,6 +22,8 @@ creator:
     - https://es.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez
     - http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61460#Contes-espagnols-d-amour-et-de-mort
 gutenberg_issued: '2020-02-20'
 gutenberg_type: Text
 identifiers:
