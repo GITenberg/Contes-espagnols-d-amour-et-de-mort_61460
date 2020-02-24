@@ -1,0 +1,33 @@
+_repo: Contes-espagnols-d-amour-et-de-mort_61460
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ménétrier, F.
+    gutenberg_agent_id: '51438'
+    url: http://www.gutenberg.org/2009/agents/51438
+creator:
+  author:
+    agent_name: Blasco Ibáñez, Vicente
+    aliases:
+    - Blasco Ibanez, Vicente
+    - Ibáñez, Vicente Blasco
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '647'
+    url: http://www.gutenberg.org/2009/agents/647
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez
+    - http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
+description: ''
+gutenberg_issued: '2020-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61460'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Contes espagnols d'amour et de mort
+url: http://www.gutenberg.org/ebooks/61460
